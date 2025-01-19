@@ -16,9 +16,9 @@ Todo REST API is a simple API for managing users and tasks (todos). It allows yo
 
 - Java 21
 - Spring Boot
-- Spring Web
 - Spring JPA
 - PostgreSQL
+- Maven
 
 ## Installation
 1. Clone the repository
